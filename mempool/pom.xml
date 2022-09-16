@@ -44,6 +44,12 @@
 			<scope>compile</scope>
 		</dependency>
 
+		<dependency>
+			<groupId>org.jgroups</groupId>
+			<artifactId>jgroups</artifactId>
+			<version>5.2.6.Final</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
